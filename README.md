@@ -10,5 +10,5 @@
 <h3 align="center">Pendik Anadolu Lisesi</h3>
 
 <p align="center">
-  <img src="https://github.com/PalEDergi/PalEDergi/blob/main/pal.jfif" alt="Pal Logo" width="100" height="100"/>
+  <img src="https://github.com/PalEDergi/PalEDergi/blob/main/pal.jfif" alt="Pal Logo" width="120" height="120"/>
 </p>
